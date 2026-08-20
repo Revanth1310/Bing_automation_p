@@ -2,7 +2,7 @@ name: Daily Bing Searches
 
 on:
   schedule:
-    - cron: "30 14 * * *"
+    - cron: "30 4 * * *"
 
   workflow_dispatch:
 
