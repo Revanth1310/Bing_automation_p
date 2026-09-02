@@ -30,8 +30,8 @@ jobs:
           AUTH_PASSWORD: ${{ secrets.AUTH_PASSWORD }}
         run: |
           printf '%s' "$AUTH_PASSWORD" | openssl enc -d -aes-256-cbc -pbkdf2 \
-            -in auth.json.enc \
-            -out auth.json \
+            -in auth_p.json.enc \
+            -out auth_p.json \
             -pass stdin
 
       - name: Run Bing automation
@@ -41,4 +41,4 @@ jobs:
       - name: Delete authentication file
         if: always()
         run: |
-          rm -f auth.json
+          rm -f auth_p.json
