@@ -11,7 +11,7 @@ from playwright.sync_api import sync_playwright
 BASE_DIR = Path(__file__).resolve().parent
 
 QUERIES_FILE = BASE_DIR / "queries.txt"
-AUTH_FILE = BASE_DIR / "auth.json"
+AUTH_FILE = BASE_DIR / "auth_p.json"
 
 
 # ============================================================
@@ -56,7 +56,7 @@ def main():
         # ----------------------------------------------------
 
         browser = p.chromium.launch(
-            headless=False
+            headless=True
         )
 
         # ----------------------------------------------------
