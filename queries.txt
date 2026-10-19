@@ -1,15 +1,20 @@
-Discuss the structure and muscular system
-What is artificial intelligence
-Explain machine learning
-What is cloud computing
-Explain computer networks
-What is database normalization
-Explain operating systems
-What is blockchain
-Explain IoT
-What is natural language processing
-Explain neural networks
-What is cybersecurity
-Explain data structures
-What is computer vision
-What is deep learning
+Discuss the structure and muscular system.
+What is Artificial Intelligence?
+Explain Machine Learning.
+What is Cloud Computing?
+Explain Computer Networks.
+What is Database Normalization?
+Explain Operating Systems.
+What is Blockchain?
+Explain IoT (Internet of Things).
+What is Natural Language Processing?
+Explain Neural Networks.
+What is Cybersecurity?
+Explain Data Structures.
+What is Computer Vision?
+What is Deep Learning?
+Explain Quantum Computing.
+What is DevOps?
+Explain Big Data Analytics.
+What is Edge Computing?
+Explain Reinforcement Learning.
