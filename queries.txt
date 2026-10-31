@@ -1,20 +1,40 @@
-Discuss the structure and muscular system.
-What is Artificial Intelligence?
-Explain Machine Learning.
-What is Cloud Computing?
-Explain Computer Networks.
-What is Database Normalization?
-Explain Operating Systems.
-What is Blockchain?
-Explain IoT (Internet of Things).
-What is Natural Language Processing?
-Explain Neural Networks.
-What is Cybersecurity?
-Explain Data Structures.
-What is Computer Vision?
+What is the structure and muscular system of the human body?
+What is Artificial Intelligence (AI)?
+What are the different types of Artificial Intelligence?
+Explain Machine Learning (ML).
+What are the different types of Machine Learning?
+What is Supervised Learning?
+What is Unsupervised Learning?
+What is Reinforcement Learning?
 What is Deep Learning?
+Explain Neural Networks and their architecture.
+What is Natural Language Processing (NLP)?
+What is Computer Vision?
+What is Generative AI?
+What are Large Language Models (LLMs)?
+What is Cloud Computing?
+What are the different types of Cloud Computing services?
+Explain Computer Networks.
+What are LAN, MAN, and WAN?
+What is the OSI model?
+What is the difference between TCP and UDP?
+What is Database Normalization?
+Explain 1NF, 2NF, 3NF, and BCNF.
+What is a Database Management System (DBMS)?
+What is SQL and what are its main commands?
+Explain Operating Systems and their functions.
+What is the difference between a process and a thread?
+What is Virtual Memory?
+Explain Data Structures.
+What is the difference between an array, linked list, stack, and queue?
+What are trees and graphs in Data Structures?
+What is Blockchain technology?
+What is IoT (Internet of Things)?
+What is Cybersecurity and why is it important?
+What are encryption, authentication, and authorization?
 Explain Quantum Computing.
 What is DevOps?
-Explain Big Data Analytics.
+What is Big Data Analytics?
 What is Edge Computing?
-Explain Reinforcement Learning.
+What is the difference between Cloud Computing and Edge Computing?
+What is the difference between Machine Learning, Deep Learning, and Artificial Intelligence?
